@@ -3,3 +3,4 @@ sphinx-rtd-size
 sphinx-rtd-theme
 myst-parser
 importlib-metadata
+sphinx-autobuild
